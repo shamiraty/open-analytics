@@ -7,8 +7,8 @@
 ### Live Demo
 [Live Demo](https://open-projects.streamlit.app/)
 
-### 📥 Download Source-Code (Streamlit App)
-🔗 [Live Demo](https://swahiliict-shop.fourthwall.com/products/business-intelligence-python-streamlit/)
+### Download Source-Code (Streamlit App)
+ [Download](https://swahiliict-shop.fourthwall.com/products/business-intelligence-python-streamlit/)
 
 
 ### YouTube
